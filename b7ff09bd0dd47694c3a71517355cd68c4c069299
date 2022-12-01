@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "cee0f594_f653ab32",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1000000
+      },
+      "writtenOn": "2022-12-01T01:54:51Z",
+      "side": 1,
+      "message": "TODO: Crop and resize.",
+      "revId": "b7ff09bd0dd47694c3a71517355cd68c4c069299",
+      "serverId": "35266860-6252-469c-a67d-185064479fc0"
+    }
+  ]
+}
