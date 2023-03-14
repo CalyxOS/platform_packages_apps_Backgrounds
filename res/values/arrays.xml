@@ -16,7 +16,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <array name="wallpapers" translatable="false">
+    <array name="partner_wallpapers" translatable="false">
         <item>calyx_dark</item>
         <item>default_blue</item>
         <item>eff_consent</item>
